@@ -4,6 +4,23 @@ body{
     color: blue;
 }
 .contenedor{
+    
     padding: 30px;
     background-color: rgba(127, 255, 212, 0.685);
+}
+#cabecera{
+    background-color: rgb(3, 87, 48);
+    font-size:30px;
+    font-weight: bold;
+    text-align: start;
+    padding: 30px;
+    color: rgb(255, 255, 255);
+
+}
+span{
+    color: bisque;
+    font-size: 25px;
+    font-weight: 300;
+    
+
 }
