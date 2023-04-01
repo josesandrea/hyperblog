@@ -3,10 +3,15 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: green;
 }
+img{
+    width: 30px;
+   
+}
 .contenedor{
     
     padding: 30px;
     background-color: rgba(127, 255, 212, 0.685);
+    height:100vh;
 }
 #cabecera{
     background-color: rgb(3, 87, 48);
@@ -15,6 +20,8 @@ body{
     text-align: start;
     padding: 30px;
     color: rgb(255, 255, 255);
+    display: flex;
+    gap: 10px;
 
 }
 span{
