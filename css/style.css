@@ -9,7 +9,7 @@ body{
     margin: 0px 200px 80px;
     padding: 3px;
     background-color: rgb(255, 255, 255);
-    height:80vh;
+    height: 100%;
 }
 #cabecera{
     margin-bottom: 50px;
@@ -48,4 +48,8 @@ footer{
 }
 .parrafo{
     text-align: center;
+}
+.imagen{
+    width: 100%;
+    height: 250px;
 }
